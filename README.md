@@ -5,6 +5,7 @@
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-Multimodal%20AI-4285F4.svg?logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![SQLite](https://img.shields.io/badge/SQLite3-Local%20Database-003B57.svg?logo=sqlite&logoColor=white)](https://sqlite.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **WhatsMyFin AI** is an innovative, mobile-first personal finance companion that transforms personal wealth and expense management into a natural **WhatsApp** conversation. Instead of struggling with complex budget spreadsheets or rigid tracking apps, you simply chat, send voice notes, or snap bill photos to track expenses, manage budgets, and receive instant financial advice.
 
